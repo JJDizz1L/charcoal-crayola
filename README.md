@@ -39,8 +39,8 @@ This allows for automatically theming: Alacritty, Cava, Chromium, Cursor, Discor
 (Note: Steps below not needed with theme-hook-plugin-manager installed.)
   - Equicord/Vencord/Vesktop is required to alter your Discord theme.
   - For Equicord/Vencord/Vesktop, follow these steps:
-    - Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Equicord/themes/.
-    - Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Vencord/themes/.
-    - Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Vesktop/themes/.
+    - Copy ~/.config/omarchy/themes/charcoal-crayola/vencord.theme.css to ~/.config/Equicord/themes/.
+    - Copy ~/.config/omarchy/themes/charcoal-crayola/vencord.theme.css to ~/.config/Vencord/themes/.
+    - Copy ~/.config/omarchy/themes/charcoal-crayola/vencord.theme.css to ~/.config/Vesktop/themes/.
   - Open Discord, Navigate to Settings > Themes.
   - Click, "Load missing Themes", Tick "Omarchy System24".

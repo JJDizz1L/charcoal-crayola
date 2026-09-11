@@ -22,7 +22,7 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 1. Using Aether App, pre-installed on Omarchy Hyprland Systems.
 2. If you're not using Omarchy, you can install Aether from the AUR: `yay -S aether` 
 - https://github.com/bjarneo/aether
-3. Sync Nautilus File Manager with live hot reloading with my paint-omarchy-nautilus extension `yay -S paint-omarchy-nautilus` - 
+3. Live hot reload Nautilus with my paint-omarchy-nautilus extension `yay -S paint-omarchy-nautilus`
 - https://github.com/JJDizz1L/paint-omarchy-nautilus
 
 In addition to Aether, you can go even further by exploring `theme-hook-plugin-manager`, which allows for further customization to your system. 

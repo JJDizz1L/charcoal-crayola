@@ -29,6 +29,8 @@ In addition to Aether, you can go even further by exploring `theme-hook-plugin-m
 This allows for automatically theming: Alacritty, Cava, Chromium, Cursor, Discord, Firefox, Ghostty, GTK, Hyprland, Kitty, Mako, QT6, Spotify, Steam, Superfile, SwayOSD, Vicinae, VS Code, Walker, Waybar, Windsurf, Zed, and Zen Browser.
   - https://github.com/OldJobobo/theme-hook-plugin-manager
 
+### Wallpaper Gallery
+  
 ### System Modifications
 - Supported Terminals: Alacritty, Kitty, Ghostty.
 - Supported Browsers: Chromium-based browsers like Helium, Vivaldi, Brave, and Edge.

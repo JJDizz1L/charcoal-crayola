@@ -30,7 +30,19 @@ This allows for automatically theming: Alacritty, Cava, Chromium, Cursor, Discor
   - https://github.com/OldJobobo/theme-hook-plugin-manager
 
 ### Wallpaper Gallery
-  
+<img width="640" height="360" alt="charcol-crayola-0" src="https://github.com/user-attachments/assets/b43b70d8-5418-4497-97f8-88411d830c05" />
+<img width="640" height="360" alt="charcol-crayola-3" src="https://github.com/user-attachments/assets/c49fd119-21ef-493b-87ec-563554ad32c7" />
+<img width="640" height="360" alt="charcol-crayola-high" src="https://github.com/user-attachments/assets/21f22490-b45c-446f-b352-6c03c731606f" />
+<img width="640" height="360" alt="coffee-1-high" src="https://github.com/user-attachments/assets/d4645654-d5be-421b-96e0-b78b7cac5174" />
+<img width="640" height="360" alt="eagle-1-high" src="https://github.com/user-attachments/assets/57a5a31d-1827-4860-bdb2-d20ce6431a10" />
+<img width="640" height="360" alt="elephant-1-high" src="https://github.com/user-attachments/assets/f8eceb62-b584-44f2-aadc-0fdfc9b2406c" />
+<img width="640" height="360" alt="elk-1-high" src="https://github.com/user-attachments/assets/a58a1e8b-82d7-4a80-a37e-f346e3588c89" />
+<img width="640" height="360" alt="horse-1-high" src="https://github.com/user-attachments/assets/20ef8609-fefc-482b-b998-d2cd7759a245" />
+<img width="640" height="360" alt="lion-1-high" src="https://github.com/user-attachments/assets/3627ffdf-b342-44b5-89ca-63742d922b52" />
+<img width="640" height="360" alt="llama-1-high" src="https://github.com/user-attachments/assets/af931d9e-0302-4dae-ba33-7e86be83c2cf" />
+<img width="640" height="360" alt="zebra-1-high" src="https://github.com/user-attachments/assets/aae0eb63-008d-4f63-8718-edb046f79502" />
+<img width="640" height="360" alt="seafish-1-high" src="https://github.com/user-attachments/assets/18119da8-e754-40c1-8cdc-e4fb864966e7" />
+
 ### System Modifications
 - Supported Terminals: Alacritty, Kitty, Ghostty.
 - Supported Browsers: Chromium-based browsers like Helium, Vivaldi, Brave, and Edge.

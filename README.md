@@ -4,7 +4,7 @@ A Monochrome theme with dashes of vibrant color for Omarchy Linux.
 Charcoal Crayola was created specifically for **OMARCHY QUATTRO** | Hyprland system.</br>
 *..."To arrange one's digital space is to orchestrate a silent dialogue between the fleeting chaos of thoughts and the enduring permanence of form."*
 <img width="3840" height="2160" alt="preview" src="https://github.com/user-attachments/assets/b26f7225-68e6-4799-af7c-36c245d0c5a3" />
-<img width="3840" height="2160" alt="charcol-crayola-0" src="https://github.com/user-attachments/assets/de3923b5-1567-4d61-9a01-0f38d5ec7830" />
+<img width="3840" height="2160" alt="preview-unlock" src="https://github.com/user-attachments/assets/efc818a2-c388-4e70-8b24-fb4a1600b248" />
 New, Omarchy 4+ (Plymouth) Unlock Screen 
 
 # Installation

@@ -13,7 +13,7 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 ### TERMINAL
 `omarchy-theme-install https://github.com/JJDizz1L/charcoal-crayola`
 
-### WALKER MENU
+### OMARCHY MENU
 1. Copy this link: `https://github.com/JJDizz1L/charcoal-crayola`
 2. Open Walker, `SUPER+SPACE`, navigate to: Install < Style < Theme
 3. Paste: `CTRL+SHIFT+V`, then press enter/return.

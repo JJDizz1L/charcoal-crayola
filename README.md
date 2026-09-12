@@ -19,10 +19,9 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 3. Paste: `CTRL+SHIFT+V`, then press enter/return.
 
 ### EXTRA
-1. Using Aether App, pre-installed on Omarchy Hyprland Systems.
-2. If you're not using Omarchy, you can install Aether from the AUR: `yay -S aether` 
-- https://github.com/bjarneo/aether
-3. Live hot reload Nautilus with my paint-omarchy-nautilus extension `yay -S paint-omarchy-nautilus`
+1. I have created a companion Omarchy Plug-in, Auto Wallpaper, which will cycle the theme's wallpapers on an interval. You can visit the Omarchy Community Marketplace to install it. 
+- https://plugins.omarchy.org/?q=dizziee
+2. Live hot reload Nautilus with my paint-omarchy-nautilus extension `yay -S paint-omarchy-nautilus`
 - https://github.com/JJDizz1L/paint-omarchy-nautilus
 
 In addition to Aether, you can go even further by exploring `theme-hook-plugin-manager`, which allows for further customization to your system. 
